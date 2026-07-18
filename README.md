@@ -1,6 +1,5 @@
 # 💫 About Me:
-Dave Roshan:
-## <br><br>- 🔭  I'm currently working on an, AI based Sports Prediction Platform (UFC, Cricket & Football)  and Computer Vision projects**<br>- 🤝  I'm looking to collaborate on  Open Source, AI/ML, Computer Vision, and LLM-based applications <br>- 🫱 I'm looking for help with **MLOps, Cloud Deployment, and Distributed AI Systems**<br>- 🌱  I'm currently learning  Data Structures & Algorithms, Large Language Models (LLMs), RAG, FastAPI, and System Design <br>- 💬 Ask me about  Python, Machine Learning, Computer Vision, Data Science, TensorFlow, and Deep Learning <br>- ⚡ Fun fact:  I enjoy building real-world AI projects more than just completing tutorials.
+## Dave Roshan <br><br>- 🔭  I'm currently working on an, AI based Sports Prediction Platform (UFC, Cricket & Football)  and Computer Vision projects**<br>- 🤝  I'm looking to collaborate on  Open Source, AI/ML, Computer Vision, and LLM-based applications <br>- 🫱 I'm looking for help with **MLOps, Cloud Deployment, and Distributed AI Systems**<br>- 🌱  I'm currently learning  Data Structures & Algorithms, Large Language Models (LLMs), RAG, FastAPI, and System Design <br>- 💬 Ask me about  Python, Machine Learning, Computer Vision, Data Science, TensorFlow, and Deep Learning <br>- ⚡ Fun fact:  I enjoy building real-world AI projects more than just completing tutorials.
 
 
 ## 🌐 Socials:
